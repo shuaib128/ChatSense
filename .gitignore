@@ -1,0 +1,9 @@
+# Ignore the build directory
+build/
+
+# Ignore temporary or log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
